@@ -1,5 +1,2 @@
-Mutaz Lafi intrested In Computer Science And Programming In Arduino 
-I have About 2 Years Experience of Arduino Programming
-I Live Jordan 
-Im from Jordan 
-Thanks For Reading About Me
+Mutaz Lafi is an Arduino programmer from Jordan with good experience. I had worked on many projects and works as a freelancer. He is interested in Computer Science and programming in Arduino. He has about tow years of experience in Arduino programming.
+
